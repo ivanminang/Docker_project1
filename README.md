@@ -1,2 +1,2 @@
-# Docker_project1
-Containerize an apache web server
+# Docker_projects
+Containerize Applications
